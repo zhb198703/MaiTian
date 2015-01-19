@@ -112,6 +112,7 @@
 		8A9B42DE1A6D014100FAE4AE /* Business */ = {
 			isa = PBXGroup;
 			children = (
+				8A9B42F21A6D088000FAE4AE /* HomePage */,
 				8A9B42DF1A6D014100FAE4AE /* AppDelegate.h */,
 				8A9B42E01A6D014100FAE4AE /* AppDelegate.m */,
 				8A9B42E11A6D014100FAE4AE /* main.m */,
@@ -158,6 +159,37 @@
 			children = (
 			);
 			path = UI;
+			sourceTree = "<group>";
+		};
+		8A9B42F21A6D088000FAE4AE /* HomePage */ = {
+			isa = PBXGroup;
+			children = (
+				8A9B42F31A6D088000FAE4AE /* Controller */,
+				8A9B42F41A6D088000FAE4AE /* Model */,
+				8A9B42F51A6D088000FAE4AE /* View */,
+			);
+			path = HomePage;
+			sourceTree = "<group>";
+		};
+		8A9B42F31A6D088000FAE4AE /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		8A9B42F41A6D088000FAE4AE /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		8A9B42F51A6D088000FAE4AE /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
